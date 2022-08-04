@@ -1,5 +1,9 @@
 <h2><b><p>Functionality Testing for e-commerce website Amazon </p><b></h2>
-<p>Automation script designed using Selenium webdriver, TestNG, and java.</p>
+<p>Automation script designed using Selenium webdriver, TestNG, and Java using the below concepts : </p>
+<li>Page Objects to organize the methods on how to interact with the elements on the particular page</li>
+<li>Wrappers for commonly used Selenium WebDriver functions</li>
+<li>Actions classes grouping up commonly used methods, so tests are easier to create</li>
+<li>Plain Ole Java Objects (pojos) to gather up and group together parameters of test objects, so we can pass one object into a method, instead of five or six parameters.</li><br/>
 The directory structure:
 <br />
 <b>src/test/java</b><br />
