@@ -1,5 +1,5 @@
-<p>Automation Script designed for e-commerce website Amazon using Selenium webdriver, TestNG, and java.</p>
-
+<b><p>Functionality Testing for e-commerce website Amazon </p><b><br>
+<p>Automation script designed using Selenium webdriver, TestNG, and java.</p><br>
 The directory structure:
 <br />
 <b>src/test/java</b><br />
