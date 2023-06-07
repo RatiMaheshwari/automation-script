@@ -1,4 +1,4 @@
-<h2><b><p>Functional Testing for e-commerce website Amazon </p><b></h2>
+<h2><b><p>Functional Testing for e-commerce website </p><b></h2>
 <p>Automation script designed using Selenium webdriver, TestNG, and Java in Eclipse using the below concepts : </p>
 <li>Page Objects to organize the methods on how to interact with the elements on the particular page</li>
 <li>Wrappers for commonly used Selenium WebDriver functions</li>
